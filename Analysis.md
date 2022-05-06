@@ -10,6 +10,7 @@ The second comparison we made is between a "chi-squared statistic" and a "chi-sq
 ```mermaid
 
 graph
+ NEWLINE
  Observed Counts
  Race/Ethnicity
  NEWLINE
