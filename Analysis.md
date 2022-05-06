@@ -14,12 +14,18 @@ Chi Squared Critical Value: 14.06714045
 P-Value: 0.998617077
 Alpha Level: .05
 
-Since our p-value is greater than our aplha lavel and our chi swaured critical value is greater than chi-squared statistic, we fail to reject our null hypothesis and cannot conclude that African Americans are more likely to die from cardiovascular disease than white people while using this Dataset. 
+Since our p-value is greater than our alpha level and our chi squared critical value is greater than chi-squared statistic, we fail to reject our null hypothesis and cannot conclude that African Americans are more likely to die from cardiovascular disease than white people while using this Dataset. 
 
 Limitations:
 
-We realized to late that the data was pretty similar between the two groups, I think that the dataset that we used tried to have an equal amount of cases from both populations and cause of death, so it would be terrible indicator of the actual population. In addition, it is notable to mention that the number of cases listed for both was around the same, while African Americans represent around only 13.3% of the U.S. Population while White Americans are the majority at 76.3%. 
+We realized too late that the data was pretty similar between the two groups, I think that the dataset that we used tried to have an equal amount of cases from both populations and cause of death, so it would be terrible indicator of the actual population. In addition, it is notable to mention that the number of cases listed for both was around the same, while African Americans represent around only 13.3% of the U.S. Population while White Americans are the majority at 76.3%. 
 
 This test only takes into account this dataset, so we couldn't be sure for all cases across the U.S. 
+
+Answering the Questions:
+1. Our intital hypothesis was that "African American people are more likely to die from cardiovascular disease than white people". We noticed that the data was very specific because it mentioned race, place that death occured, cause of death, and gender. 
+2. We decided to use p-test and chi squared critical test because that is the most effecient way of finding whether two groups are correlated or not. 
+3. I had only used a p-test in the past so the chi squared critical test was new to me so I found that interesting, I also learned how easy it is to misrepresent an entire group of people by using an incorrect dataset. We should have found a dataset that took into account all deaths proportionate to race and then used that to calculate if one race is more likely to die from cardiovascular disease than another. We didn't look to hard at the raw data, just because of the sheer amount of it, so we should have noticed way sooner that the cases reported in this data of white and African American's dying from Cardiovascular disease was around the same, so it is important to accurately vet a datset before choosing to use it. 
+4. I don't think our findings are generalizable at all, I think it would be really hard to come up with any accurate findings with the way that the dataset we used was set up, although I didn't test it I would wager that all other aspects of the dataset are similar as well (ie: the amount of male to female is probably 50 50, same thing with locations, etc). 
 
 
