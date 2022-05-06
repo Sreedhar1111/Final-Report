@@ -7,46 +7,19 @@ The p-value is the measure of a probability of reaching the observed results and
 
 The second comparison we made is between a "chi-squared statistic" and a "chi-square critical". The chi-s qaure statisitic is the difference between actual and predicted results represented as standard error. The chi-square critical is the cutoff between retaining or rejected the null hypothesis. If the chi-squared critical is greater than the chi-squared statisitic the null hupothesis could not be disproved which would mean that our results are not statistically signifiant. If the opposite is true, we reject the null hypothesis, which would meant that the alternate hypothesis is correct which would show that our result are statistically significant. 
 
-```mermaid
+Our results since almost all of the quantitites in the data are around equal was:
+Chi Square Statistic: .66110342
+Degrees of Freedom: 7
+Chi Squared Critical Value: 14.06714045
+P-Value: 0.998617077
+Alpha Level: .05
 
-graph
- NEWLINE
- Observed Counts
- Race/Ethnicity
- NEWLINE
- Outcome
- Black, non-Hispanic
- White, non-Hispanic
- NEWLINE
- Hospitalization for acute myocardial infarction
- 954
- 954
- NEWLINE
- Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years
- 1560
- 1560
- NEWLINE
- Hospitalization for stroke
- 954
- 954
- NEWLINE
- Mortality from cerebrovascular disease (stroke)
- 1530
- 1530
- NEWLINE
- Mortality from coronary heart disease
- 1530
- 1530
- NEWLINE
- Mortality from diseases of the heart
- 1530
- 1530
- NEWLINE
- Mortality from heart failure
- 1482
- 1530
- NEWLINE
- Mortality from total cardiovascular diseases
- 1530
- 1530
-```
+Since our p-value is greater than our aplha lavel and our chi swaured critical value is greater than chi-squared statistic, we fail to reject our null hypothesis and cannot conclude that African Americans are more likely to die from cardiovascular disease than white people while using this Dataset. 
+
+Limitations:
+
+We realized to late that the data was pretty similar between the two groups, I think that the dataset that we used tried to have an equal amount of cases from both populations and cause of death, so it would be terrible indicator of the actual population. In addition, it is notable to mention that the number of cases listed for both was around the same, while African Americans represent around only 13.3% of the U.S. Population while White Americans are the majority at 76.3%. 
+
+This test only takes into account this dataset, so we couldn't be sure for all cases across the U.S. 
+
+
