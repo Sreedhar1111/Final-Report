@@ -12,31 +12,39 @@ The second comparison we made is between a "chi-squared statistic" and a "chi-sq
 graph
  Observed Counts
  Race/Ethnicity
- 
+ NEWLINE
  Outcome
  Black, non-Hispanic
  White, non-Hispanic
+ NEWLINE
  Hospitalization for acute myocardial infarction
  954
  954
+ NEWLINE
  Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years
  1560
  1560
+ NEWLINE
  Hospitalization for stroke
  954
  954
+ NEWLINE
  Mortality from cerebrovascular disease (stroke)
  1530
  1530
+ NEWLINE
  Mortality from coronary heart disease
  1530
  1530
+ NEWLINE
  Mortality from diseases of the heart
  1530
  1530
+ NEWLINE
  Mortality from heart failure
  1482
  1530
+ NEWLINE
  Mortality from total cardiovascular diseases
  1530
  1530
